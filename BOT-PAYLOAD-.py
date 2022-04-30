@@ -10,4 +10,4 @@ CYAN = '\033[36m'
 WHITE = '\033[37m'
 RESET = '\033[39m'
 os.system("clear")
-#en desarrollo :(
+print(CYAN+"#en desarrollo :( ")
